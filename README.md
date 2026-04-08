@@ -2,7 +2,7 @@
 
   <div style="background:#E86B2C;border-radius:6px;padding:8px 14px;margin-bottom:1.5rem;font-size:12px;font-weight:500;color:#ffffff">
     PLEASE NOTE: This is the full detailed version. 
-    For a quicker read: <a href="#" style="color:#ffffff;text-decoration:underline">OPEN SHORT VERSION</a>
+    For a quicker read: <a href="#" style="color:#ffffff;text-decoration:underline">OPEN SHORT VERSION (yet to be ready)</a>
   </div>
 
   <h1 style="font-size:32px;font-weight:500;color:#ffffff;margin:0 0 6px;line-height:1.2">
