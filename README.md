@@ -763,85 +763,18 @@ identical across all C3 members regardless of starting value.
 
 
 
+
+
+
+
+
+
+
+
 _________________________________________________________________________________________________________________
-<style>
-.rf-root{font-family:var(--font-sans);color:var(--color-text-primary);border-top:3px solid #378ADD;padding:2rem 1.5rem 1.5rem;background:#EAF3DE;border-radius:8px;margin-top:2rem}
-.rf-name{font-size:28px;font-weight:500;margin:0 0 4px;color:#5F5E5A}
-.rf-sub{font-size:13px;color:#5F5E5A;margin:0 0 1.5rem}
-.rf-grid{display:grid;grid-template-columns:1fr 1fr;gap:1.5rem;margin-bottom:1.5rem}
-.rf-section-title{font-size:11px;font-weight:500;text-transform:uppercase;letter-spacing:0.08em;color:#5F5E5A;margin:0 0 8px}
-.rf-note{font-size:13px;color:#444441;line-height:1.6;margin:0 0 6px;padding-left:12px;border-left:2px solid #97C459}
-.rf-badge{display:inline-flex;align-items:center;gap:5px;font-size:11px;padding:4px 10px;border-radius:20px;border:0.5px solid #97C459;color:#3B6D11;margin:3px;background:#ffffff}
-.rf-badge-main{border-color:#3B6D11;color:#27500A;font-weight:500;background:#C0DD97}
-.rf-status{display:inline-flex;align-items:center;gap:6px;font-size:12px;padding:4px 12px;border-radius:20px;background:#ffffff;color:#3B6D11;border:0.5px solid #97C459}
-.rf-dot{width:6px;height:6px;border-radius:50%;background:#639922;display:inline-block}
-.rf-ack{font-size:12px;color:#5F5E5A;line-height:1.7;margin:0}
-.rf-divider{border:none;border-top:0.5px solid #97C459;margin:1.2rem 0}
-.rf-license{font-size:11px;color:#5F5E5A}
-.rf-highlight{background:#378ADD;color:#ffffff;padding:2px 8px;border-radius:4px;font-size:12px;font-weight:500}
-.rf-contributor{font-size:12px;color:#3B6D11;margin:0 0 3px;padding-left:8px}
-</style>
+
+Abhay Ramasamy 
+(C) MIT LICENSE
+Uses: Pandas, Numpy, Scikit learn, Orange dataminer, parts have been written using Anthropic claude 
 
 
-
-
-<div class="rf-root">
-
-  <p class="rf-name">Abhay Ramasamy</p>
-  <p class="rf-sub">B.Tech Student &nbsp;·&nbsp; IITM BSDS&nbsp;·&nbsp; IIITDM &nbsp; Interested in SLAM, Perception & AI Research</p>
-
-  <div style="margin-bottom:1.2rem">
-    <span class="rf-highlight">Flow Theory</span>&nbsp;
-    <span style="font-size:13px;color:#444441">— A novel geometric encoding of Collatz sequences that reveals discrete cluster structure, phase space patterns and geometric families not found in existing literature. Originally conceived during COVID-19 lockdown, 8th standard.</span>
-  </div>
-
-<div class="rf-grid">
-<div>
-      <p class="rf-section-title">Key Takeaways</p>
-      <p class="rf-note">Flow Theory encodes each computation step as a 2D coordinate pair — the path shape geometrically fingerprints the function's behaviour</p>
-      <p class="rf-note">Unsupervised clustering on geometric features naturally separates 50,000 Collatz numbers into 3–4 distinct families without labels</p>
-      <p class="rf-note">Powers of 2 are provably and perfectly isolated — zero L-shapes, only diagonal edges, derivable from encoding rules alone</p>
-      <p class="rf-note">Flow Theory features alone reproduce full cluster structure — geometric encoding is sufficient without standard sequence statistics</p>
-</div>
-<div>
-      <p class="rf-section-title">Project Status</p>
-      <div style="margin-bottom:12px">
-        <span class="rf-status"><span class="rf-dot"></span>Active — review</span>
-      </div>
-      <p style="font-size:12px;color:#5F5E5A;margin:0 0 4px">Empirically verified on n = 1 to 50,000.</p>
-      <p style="font-size:12px;color:#5F5E5A;margin:0 0 12px">Formal mathematical proofs pending. Findings not yet peer reviewed.</p>
-
-<p class="rf-section-title" style="margin-top:12px">Contributors & Advisors</p>
-      <p class="rf-contributor">Abhay Ramasamy</p>
-      
-
-<hr class="rf-divider"/>
-
-<p class="rf-section-title">License</p>
-<p class="rf-license">MIT License — free to use, modify and distribute with attribution.<br/>Original Flow Theory concept © Abhay Ramasamy, 2020 (COVID lockdown origin).</p>
-</div></div>
-
-  <hr class="rf-divider"/>
-
-  <p class="rf-section-title">Tools & Libraries</p>
-  <div style="margin-bottom:1rem">
-    <span class="rf-badge" style="background: #e632fa;border-color:#C85A1E;color:#ffffff;font-weight:500">P5. js</span>
-    <span class="rf-badge" style="background: #fb9f71; border-color:#C85A1E;color:#ffffff;font-weight:500">Orange Datamining3</span>
-    <span class="rf-badge">🐍 Python</span>
-    <span class="rf-badge">pandas</span>
-    <span class="rf-badge">numpy</span>
-    <span class="rf-badge">scikit-learn</span>
-    <span class="rf-badge" style="background:#E86B2C;border-color:#C85A1E;color:#ffffff;font-weight:500">Claude · Anthropic</span>
-  </div>
-
-  <hr class="rf-divider"/>
-
-  <p class="rf-ack">
-    <strong style="font-size:12px">Acknowledgements —</strong>
-    Visualization built on <strong>p5.js</strong> (Processing Foundation).
-    Clustering and feature analysis conducted in <strong>Orange Data Mining 3</strong> (University of Ljubljana).
-    Dataset generation and analysis assisted by <strong>Claude (Anthropic)</strong> — all core ideas, observations and interpretations are the author's own.
-    Collatz conjecture originally proposed by Lothar Collatz (1937).
-  </p>
-
-</div>
