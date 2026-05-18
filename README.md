@@ -68,7 +68,7 @@
       <p style="margin:0 0 2px"><strong style="color:#ffffff">8. Feature Importance</strong></p>
       <p style="margin:0 0 0 12px;color:#9FE1CB">8.1 Limitations</p>
       <p style="margin:0 0 0 12px;color:#9FE1CB">8.2 Findings</p>
-      <p style="margin 0 0 0 12px; color: #9fe1cb">8.3 </p>  
+      
 
 
 
@@ -77,29 +77,7 @@
 </div>
 <br/>
 
-<style> 
-/* The alert message box */
-.alert {
-  padding: 20px;
-  background-color:  #ff8400; /* Red */
-  color: white;
-  margin-bottom: 15px;
-}
 
-/* The close button */
-
-
-    .label {
-  color: white;
-  padding: 8px;
-}
-
-.success {background-color: #04AA6D;} /* Green */
-.info {background-color: #2196F3;} /* Blue */
-.warning {background-color: #ff9800;} /* Orange */
-.danger {background-color: #f44336;} /* Red */
-.other {background-color: #e7e7e7; color: black;} /* Gray */
-</style>
 
 >> # TOOLS USED:  
 >> **Orange Data Mining 3** — an open-source visual machine learning tool 
